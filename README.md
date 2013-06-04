@@ -1,3 +1,3 @@
 # CommitArt
 
-Created by [Josh Branchaud](https://github.com/jbranchaud)
+created by [Josh Branchaud](https://github.com/jbranchaud)
